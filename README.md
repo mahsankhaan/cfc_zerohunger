@@ -95,9 +95,7 @@ __NOTE: Please use your fork repo [step 1](#step-1-Signup-for-IBM-Cloud-Platform
 
 ### Step 7. Finally application would be up and running
 
-1. Get back to main page by selecting app name on top
-
-![GitHub Logo](images/14.png)
+1. Get back to main page, select resources from left from select CF service
 
 
 2. Click visit URL and see your app running
