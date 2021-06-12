@@ -1,5 +1,7 @@
 applications:
     - path: .
       instances: 1
-      name: cfcwebapp
-      host: cfcwebapp
+      name: cfchungerapp
+      host: cfchungerapp
+      buildpack: php_buildpack
+
