@@ -11,7 +11,7 @@
 ### Step 1. Signup for IBM Cloud Platform and Fork the repository
 
 1. Create IBM Account: [Here](https://ibm.biz/BdfSFy)
-1. Open this [repo](https://github.com/mahsankhaan/app-modernization-using-IBM-toolchain.git)
+1. Open this [repo](https://github.com/mahsankhaan/cfc_zerohunger.git)
 1. And then click on __Fork__ on the top right 
 
 ![GitHub Logo](images/fork.png)
