@@ -34,7 +34,7 @@ IBM Cloud Login-link:[https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 
 4. In Git repos section insert Source repository URL: 
 
-__NOTE: Please use your fork repo [step 1](#step-1-Signup-for-IBM-Cloud-Platform-and-Fork-the-repository) or else you can't trigger the change__
+__NOTE: Please use your OWN fork repo [step 1](#step-1-Signup-for-IBM-Cloud-Platform-and-Fork-the-repository) or else you can't trigger the change__
 
 [https://github.com/mahsankhaan/cfc_zerohunger](https://github.com/mahsankhaan/cfc_zerohunger.git)
 
