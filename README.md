@@ -11,7 +11,7 @@
 
 ### Step 1. Signup for IBM Cloud Platform and Fork the repository
 
-1. Create IBM Account: [Here](http://ibm.biz/cloudnative2020)
+1. Create IBM Account: [Here](https://ibm.biz/BdfSFy)
 1. Open this [repo](https://github.com/mahsankhaan/app-modernization-using-IBM-toolchain.git)
 1. And then click on __Fork__ on the top right 
 
@@ -20,35 +20,10 @@
 __NOTE:__ Kindly udpdate __manifest.yml__ file, open and change the __name__ filed to something unique. 
 
 
-### Step 2. Login into your IBM account and search for CloudFoundry
+### Step 2. Login into your IBM account
 IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 
 ![GitHub Logo](images/2.png)
-
-
-### Step 3. Create Public Application
-
-![GitHub Logo](images/3up.png)
-
-
-### Step 4. Setup CloudFoundry service 
-
-1. Select region "Dallas" and account type "lite".
-
-![GitHub Logo](images/40.png)
-
-2. Select runtime __PHP__) 
-3. App name: __Cloudnative-xyz__ (Please use different names)
-4. Once everything is completed click __Create__
-
-![GitHub Logo](images/50.png)
-
-
-### Step 5. Verify Cloud Foundry deployed successfully 
-
-Click __Visit App URL__ and a new browser tab will open on which our CF template is running.
-
-![GitHub Logo](images/60.png)
 
 
 ### Step 6. Enable Toolchain service for continuous integration and delivery
