@@ -21,9 +21,9 @@ __NOTE:__ Kindly udpdate __manifest.yml__ file, open and change the __name__ fil
 
 
 ### Step 2. Login into your IBM account
-IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
+IBM Cloud Login-link:[https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 
-![GitHub Logo](images/2.png)
+![GitHub Logo](images/login.png)
 
 
 ### Step 6. Enable Toolchain service for continuous integration and delivery
