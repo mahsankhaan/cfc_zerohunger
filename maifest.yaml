@@ -1,7 +1,4 @@
-applications:
-    - path: .
-      instances: 1
-      name: cfchungerapp
-      host: cfchungerapp
-      buildpack: php_buildpack
-
+ applications:
+ - name: cloudhungner
+   random-route: true
+   memory: 128M
