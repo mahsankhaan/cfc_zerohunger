@@ -28,8 +28,8 @@ IBM Cloud Login-link: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 
 ### Step 6. Enable Toolchain service for continuous integration and delivery
 
-1. Select __Overview__ from left menu under Cloud Foundry service
-2. In Continuous delivery section select __Enable__ button.
+1. Search for  __Toolchain__ from search bar
+2. Then select __Cloud Foundry__ template.
 
 ![GitHub Logo](images/70.png)
 
